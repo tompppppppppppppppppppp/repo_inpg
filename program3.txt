@@ -1,4 +1,4 @@
-import java.util.Scanner;
+import util.Scanner;
 
 public class EvenOdd {
 
